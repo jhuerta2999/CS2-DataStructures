@@ -1,0 +1,8 @@
+These are the issues I found in my Expression.java
+
+1) Your program cannot handle uppercase variables such as X or A.  This qualifies as a small bug.
+
+2) Operations such as toPostfix should put spaces between the terms.  For example, 1 4 + 2 +  should output 1 4 + 2 + and not 14+2+  because it now appears that there is a 14 (there is not).  This is a minor bug.  This is true for numbers and variables in equations.
+
+Level: 5
+Grade: 47 / 50

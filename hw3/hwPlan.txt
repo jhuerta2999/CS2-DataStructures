@@ -1,0 +1,53 @@
+PART 1
+
+1) obtain/ import file
+   - if the file is wrong notify it is wrong
+2) read lines of the file
+3) Scan each line and start reading
+   
+   - Add album info after adding or remove command, string.split(:)
+   - before going on to the next line add the album that is there on to the list
+   - TEST: print out the list to see if all albums are present
+
+   ALBUM CLASS
+   
+   1) create instance variables to access artist and album need toString to prin out the array
+  
+      
+PART 2
+
+1) print out message requirng a comamnd from the user
+2) scan that line to obtain the command the user inputed
+   - if what they entered is incoherent, deny the command and ask them to re enter a valid command
+3) After ending the program wipe out current data base
+4) - check if the Album object is already in the list or not
+   - get the album name and add to the list
+   - if first part of the string is add then add if the array is small emlarge the length
+   - if first part of the string is remove, scan the list to find the album to remove
+   - print out the modified array
+
+PART 3
+
+1) Number of items is an acc and if it eauqls the length of the list than you must update the length of the list
+1) create new file that extends from the AlbumList abstract and that will be extended to the interactive file.
+2) create a list to hold the album names  xnumber of items and array
+3) define add,
+   - add each album that is entered from the user
+   - if list is full create a new list to add new value (length*3)/2 + 1
+4) define remove x
+   - remove albums from a certain pos or a certain album using for loop
+   - if album is not there do not do anything
+5) define size
+   - prints out the length of the list
+6) define get
+   - return album from a certain pos
+7) define set
+   -put album at a certain pos   
+
+PART 4
+
+1) create a new list
+2) read the file 
+3) based on the commands inputed fulfill the users command and modify the list from step one
+4) call the function based on the command to fuflfill the command
+5) print out the modified list

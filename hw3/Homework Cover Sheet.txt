@@ -1,0 +1,30 @@
+Homework Cover Sheet (txt template)
+
+- Please acknowledge below all significant forms of aid you give or receive
+	- Yes, even the professor! Yes, even the tutors! No, not the course texts.
+	- It is best to fill this sheet out as you go so you don’t forget
+
+
+- Please acknowledge below all of the significant time you spent on this assignment.  
+	- Please record the number of hours you spent in each working session.
+
+
+- If you are found to have given or received inappropriate aid…
+	- Cited: minor grade adjustment, discussion clarifying expectations
+	- Uncited: disciplinary action from the Office of the Dean of the College, final grade reduced, failing grade for repeat or egregious offenses.
+	- Please see the syllabus for more details
+
+
+I affirm that the information reported in this file is an accurate description of significant aid I both gave and received on this assignment as well as a accurate description of the significant time I spent on this assignment.
+
+Sign or type your name: Juan A. Huerta
+
+Assignment #: 3
+
+
+Emily - helped in explanation of abstract
+	helped in the sliding of the remove method
+	helped in explanation of parseing and inputs and add details
+Kathy - helped with the explanation of the initialization in AalbumArrayListDB
+	forced to do .equals method
+Waleed - explained how to make albums into objects, do hw correctly
